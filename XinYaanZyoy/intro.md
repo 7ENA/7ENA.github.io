@@ -6,4 +6,4 @@ by march 2020 we would have built this and by november 2019 we would have design
 my responsibility in this project is, all those computational things; Aerodynamic simulation, Flight Computer design, 
 Electronics, and its softwares!
 
-keep reading our posts [here](posts/index.md)
+keep reading our posts [here](../posts/index.md)
