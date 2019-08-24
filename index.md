@@ -1,10 +1,12 @@
 # Welcome to SENA!
 ***
+![](7ENA_logo.png)
+***
 ## our team
-- [Gopichandh](/gopi/aboutme.md)
+- Gopichandh
 - Phanindra
 - Venu
 - Vinay
 - Vivek
 - Sreekar
-- XinYaanZyoy
+- [XinYaanZyoy](XinYaanZyoy/intro.md)
